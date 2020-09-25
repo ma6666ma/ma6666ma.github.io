@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zheyun Qin / M.E."
+title                    : "Mingzhu Ma / M.E."
 title_separator          : "-"
-name                     : &name "Zheyun Qin"
+name                     : &name "Mingzhu Ma"
 description              : &description "personal description"
-url                      : https://zyqin19.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ma6666ma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/zyqin19.github.io"
+repository               : "academicpages/ma6666ma.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zheyun Qin"
+  name             : "Mingzhu Ma"
   avatar           : "profile.png"
   bio              : "M.E. student in School of Software, Shandong University"
   location         : "Jinan, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "zyqin19@163.com"
+  email            : "3294358153@qq.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zyqin19"
+  github           : "ma6666ma"
   google_plus      :
   keybase          :
   instagram        :
