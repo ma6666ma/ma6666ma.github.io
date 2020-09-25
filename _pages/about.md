@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a M.E. student (since 2019) in the School of Sofware at Shandong University, advised by [Prof. Yilong Yin](https://faculty.sdu.edu.cn/ylyin).
+I am a M.E. student (since 2019) in the School of Sofware at Shandong University, advised by [Prof. Gongping Yang](https://faculty.sdu.edu.cn/gpyang/zh_CN/index.htm).
